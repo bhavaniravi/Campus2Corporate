@@ -13,9 +13,9 @@ Learning materials for college students to get started with software. I am tryin
 ## Back-end Development
 
 ### Programming Languages
-[1. Python](https://learnxinyminutes.com/docs/python3/)
-[2. Java](https://learnxinyminutes.com/docs/java/)
-[3. Ruby](https://learnxinyminutes.com/docs/ruby/)
+1. [Python](https://learnxinyminutes.com/docs/python3/)
+2. [Java](https://learnxinyminutes.com/docs/java/)
+3. [Ruby](https://learnxinyminutes.com/docs/ruby/)
 
 ### Web Frameworks
 1. Flask
