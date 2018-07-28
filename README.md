@@ -2,13 +2,13 @@
 Learning materials for college students to get started with software. I am trying to curate a list of materials for students to enter software development.
 
 ## Version Control
-[1. git/github](http://rogerdudler.github.io/git-guide/)
+1. [git/github](http://rogerdudler.github.io/git-guide/)
 
 ## Front-End Development
-[1. HTML](https://www.tutorialspoint.com/html/html_forms.htm)
-[2. CSS](https://www.tutorialspoint.com/css)
-[3. JS](https://www.tutorialspoint.com/javascript)
-[4. React/Angular](https://reactjs.org/tutorial/tutorial.html)
+1. [HTML](https://www.tutorialspoint.com/html/html_forms.html)
+2. [CSS](https://www.tutorialspoint.com/css)
+3. [JS](https://www.tutorialspoint.com/javascript)
+4. [React/Angular](https://reactjs.org/tutorial/tutorial.html)
 
 ## Back-end Development
 
@@ -18,8 +18,8 @@ Learning materials for college students to get started with software. I am tryin
 [3. Ruby](https://learnxinyminutes.com/docs/ruby/)
 
 ### Web Frameworks
-2. Flask
-3. Django
+1. Flask
+2. Django
 
 ## Database
 1. Mysql
